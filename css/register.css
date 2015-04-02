@@ -1,0 +1,80 @@
+#atas{
+    background-color: #f00;
+    height: 150px;
+}
+
+#nama-atas{
+    color: #fff;  
+    font-size: 48px;
+    padding-top: 15px;
+    padding-left: 30px;
+}
+
+#sub-nama-atas{
+    color: #eeeeee;  
+    font-size: 24px;
+    padding-left: 289px;
+}
+
+#menu{
+	border-left: 1px solid white;
+	color: #000;
+	float: left;
+	font-size: 16px;
+	padding-left: 5px;
+	margin-left: 1250px;
+	menu: hover;
+}
+
+#tengah{
+    height: 510px;
+}
+
+#register{
+    margin-left: 25px;
+    width:600px;
+    float:left;
+    padding-left: 15px;
+}
+
+#trending {
+    margin-left: 10px;
+    width:600px;
+    float:left;
+    padding:5px;
+    padding-left: 10px;
+}
+
+#trending-title{
+    margin-top: 10px;
+    margin-left: 75px;
+    border: 1px solid black;
+    line-height: 30px;
+    width: 450px;
+    background-color: #f00;
+    padding-top: 7px; 
+    padding-bottom: 7px;
+    padding-left: 15px;
+    font-size: 18px;
+    color: #fff;
+}
+
+#trending-content{
+    margin-left: 75px;
+    width: 452px;
+    height: 422px;
+    background-color: #eeeeee;
+    padding-top: 15px; 
+    padding-bottom: 7px;
+    padding-left: 30px;
+}
+
+#footer {
+    background-color:white;
+    color:black;
+    clear:both;
+    text-align:center;
+    padding-top: 10px; 
+    padding-bottom: 10px;
+}
+

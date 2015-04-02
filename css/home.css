@@ -1,0 +1,82 @@
+#atas{
+    background-color: #f00;
+    height: 150px;
+}
+
+#nama-atas{
+    color: #fff;  
+    font-size: 48px;
+    padding-top: 15px;
+    padding-left: 30px;
+}
+
+#sub-nama-atas{
+    color: #eeeeee;  
+    font-size: 24px;
+    padding-left: 289px;
+}
+
+#menu{
+	border-left: 1px solid white;
+	color: #000;
+	float: left;
+	font-size: 16px;
+	padding-left: 5px;
+	margin-left: 1250px;
+	menu: hover;
+}
+
+#tengah{
+    
+}
+
+#tengah-kiri{
+	width: 289px;
+	height: 870px;
+	padding: 20px;
+}
+
+#p-motion{
+	font-size: 12px;
+	margin: 15px;
+	padding: 10px;
+	height: 300px;
+	border: 1px solid black;
+}
+
+#n-motion{
+	font-size: 12px;
+	margin: 15px;
+	padding: 10px;
+	height: 300px;
+	border: 1px solid black;
+}
+
+#tengah-mid{
+	border: 1px solid #eeeeee;
+	width: 740px;
+	height: 870px;
+	padding: 10px;
+}
+
+#tengah-mid-bawah{
+	width: 718px; 
+	height: 500px;
+	margin-top: 20px;
+}
+
+#tengah-kanan{
+	width: 320px;
+	height: 870px;
+	padding: 10px;
+}
+
+#footer {
+    background-color:white;
+    color:black;
+    clear:both;
+    text-align:center;
+    padding-top: 10px; 
+    padding-bottom: 10px;
+}
+

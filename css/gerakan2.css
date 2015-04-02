@@ -1,0 +1,95 @@
+#atas{
+    background-color: #f00;
+    height: 150px;
+}
+
+#nama-atas{
+    color: #fff;  
+    font-size: 48px;
+    padding-top: 15px;
+    padding-left: 30px;
+}
+
+#sub-nama-atas{
+    color: #eeeeee;  
+    font-size: 24px;
+    padding-left: 289px;
+}
+
+#menu{
+	border-left: 1px solid white;
+	color: #000;
+	float: left;
+	font-size: 16px;
+	padding-left: 5px;
+	margin-left: 1250px;
+	menu: hover;
+}
+
+#tengah{
+	
+}
+
+#tengah-kiri{
+	width: 929px;
+	height: 770px;
+	padding: 20px;
+	padding-left: 60px;
+}
+
+#y-motion{
+	font-size: 12px;
+	padding: 10px;
+	height: 600px;
+	width: 350px;
+	border: 1px solid black;
+	margin-bottom: 30px;
+	margin-right: 30px;
+}
+
+#p-motion{
+	font-size: 12px;
+	padding: 10px;
+	height: 260px;
+	width: 350px;
+	border: 1px solid black;
+	margin-bottom: 30px;
+}
+
+#n-motion{
+	font-size: 12px;
+	padding: 10px;
+	height: 260px;
+	width: 350px;
+	border: 1px solid black;
+}
+
+#tengah-kanan{
+	width: 420px;
+	height: 770px;
+	padding: 20px;
+}
+
+#tkn-atas{
+	border: 1px solid #40c8fb;
+	height: 100px;
+	margin-bottom: 30px;
+	padding: 20px;
+	color: #40c8fb;
+}
+
+#tkn-bawah{
+	border: 1px solid #40c8fb;
+	height: 500px;
+	padding-left: 20px;
+}
+
+#footer {
+    background-color:white;
+    color:black;
+    clear:both;
+    text-align:center;
+    padding-top: 10px; 
+    padding-bottom: 10px;
+}
+

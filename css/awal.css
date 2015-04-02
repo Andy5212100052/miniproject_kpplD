@@ -1,0 +1,89 @@
+#atas{
+    color: #fff; 
+    background-color: #f00; 
+    padding-top: 40px; 
+    padding-bottom: 40px; 
+    font-size: 48px;
+	height: 150px;
+}
+
+#tengah{
+
+}
+
+#trending {
+    margin-left: 40px;
+    width:650px;
+    float:left;
+    padding:5px;
+    padding-left: 25px;
+}
+
+#trending-title{
+    margin-top: 10px;
+    margin-left: 75px;
+    border: 1px solid black;
+    line-height: 30px;
+    width: 450px;
+    background-color: #f00;
+    padding-top: 7px; 
+    padding-bottom: 7px;
+    padding-left: 15px;
+    font-size: 18px;
+    color: #fff;
+}
+
+#trending-content{
+    margin-top: 10px;
+    margin-left: 75px;
+    width: 450px;
+    height: 422px;
+    background-color: #eeeeee;
+    padding-top: 15px; 
+    padding-bottom: 7px;
+    padding-left: 30px;
+    border: 1px solid black;
+}
+
+#login {
+    margin: 8px;
+    float:left;
+    padding:7px;
+	padding-left: 20px;
+	padding-right: 20px;
+}
+
+#login-form{
+    border: 1px solid black;
+    padding: 13px;
+}
+
+#footer {
+    background-color:white;
+    color:black;
+    clear:both;
+    text-align:center;
+    padding-top: 10px; 
+    padding-bottom: 10px;
+}
+
+/* ==========================================================================
+   Author's custom styles
+   ========================================================================== */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
